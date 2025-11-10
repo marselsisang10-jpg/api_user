@@ -1,7 +1,4 @@
-Nice 🔥 biar proyek API kamu rapi dan profesional, kita tambahkan file `README.md` di folder utama proyek (`api_user/`).
-File ini akan menjelaskan cara kerja, struktur folder, dan contoh penggunaan endpoint kamu di Postman.
 
----
 
 ## 📘 Buat file `README.md`
 
